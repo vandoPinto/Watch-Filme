@@ -1,0 +1,18 @@
+.container .content {}
+
+.container .content .menus {
+    padding: 30px;
+    color: var(--white);
+}
+
+.container .content .favourites {
+    padding: 30px;
+    color: var(--white);
+    font-family: 'Poppins', sans-serif;
+}
+
+.trending .cards {
+    /* display: flex; */
+    justify-content: flex-start;
+    /* gap: 20px; */
+}

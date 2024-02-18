@@ -140,7 +140,7 @@ body {
 
 .trending .cards .card {
     position: relative;
-    width: 255px;
+    width: 270px;
     height: 301px;
     background: url('./../img/pista.avif') no-repeat center / cover;
     border-radius: 20px;
